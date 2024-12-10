@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
               },
               child: const CircleAvatar(
                 backgroundImage:
-                    AssetImage('assets/profile.png'), // Profile image
+                    AssetImage('assets/images/dp.jpg'), // Profile image
               ),
             ),
             const SizedBox(width: 10),
@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
                 Text(
-                  'Joel Odufu',
+                  'Emerald Codelines',
                   style: TextStyle(
                     color: Theme.of(context).colorScheme.surface,
                     fontWeight: FontWeight.w100,

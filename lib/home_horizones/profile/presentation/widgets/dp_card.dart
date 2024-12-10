@@ -19,7 +19,7 @@ class DpCard extends StatelessWidget {
                     borderRadius: BorderRadius.circular(10),
                     image: DecorationImage(
                         image: AssetImage(
-                          "assets/profile.png",
+                          "assets/images/dp.jpg",
                         ),
                         fit: BoxFit.cover)),
               ),

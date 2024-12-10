@@ -22,7 +22,7 @@ class WelcomePage extends StatelessWidget {
                 width: 100,
                 child: Image.asset("assets/home_horizonesLogo.png")),
             Text(
-              "HOME",
+              "H O M E",
               style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.w100,

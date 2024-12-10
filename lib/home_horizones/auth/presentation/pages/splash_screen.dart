@@ -37,7 +37,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 height: 60,
               ),
               Text(
-                "HOME",
+                "H O M E",
                 style: TextStyle(
                     fontSize: 30,
                     fontWeight: FontWeight.w100,
