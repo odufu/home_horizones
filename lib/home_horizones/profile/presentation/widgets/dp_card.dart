@@ -31,19 +31,19 @@ class DpCard extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          "Joel Odufu Ekowoicho",
+                          "A. C. E",
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),
                         ),
                         Text(
-                          "joel.odufu@gmail.com",
+                          "ace@homeshorizons.com",
                           style: TextStyle(
                             fontWeight: FontWeight.w100,
                           ),
                         ),
                         Text(
-                          "08085040145",
+                          "08080808080",
                           style: TextStyle(
                             fontWeight: FontWeight.normal,
                           ),

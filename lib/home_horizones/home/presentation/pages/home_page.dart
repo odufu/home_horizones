@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
                 Text(
-                  'Emerald Codelines',
+                  'A. C. E.',
                   style: TextStyle(
                     color: Theme.of(context).colorScheme.surface,
                     fontWeight: FontWeight.w100,
