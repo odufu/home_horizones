@@ -30,7 +30,7 @@ class WelcomePage extends StatelessWidget {
                   color: Theme.of(context).colorScheme.surface),
             ),
             Text(
-              "HORIZONES",
+              "HORIZONS",
               style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -77,7 +77,7 @@ class WelcomePage extends StatelessWidget {
                         padding: EdgeInsets.all(15),
                         child: Text(
                           textAlign: TextAlign.center,
-                          "Discover your dream properties with Home Horizones Home, Where ownership meets excelence seemlesly",
+                          "Discover your dream properties with Home Horizons Home, Where ownership meets excelence seemlesly",
                           style: TextStyle(fontSize: 16),
                         ),
                       ),

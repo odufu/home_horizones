@@ -45,7 +45,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     color: Theme.of(context).colorScheme.surface),
               ),
               Text(
-                "HORIZONES",
+                "HORIZONS",
                 style: TextStyle(
                     fontSize: 30,
                     fontWeight: FontWeight.bold,

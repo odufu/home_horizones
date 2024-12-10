@@ -61,6 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     Image.asset(
                       "assets/home_horizonesLogo.png",
                       width: 40,
+                      height: 40,
                     ),
                     const SizedBox(
                       width: 10,
