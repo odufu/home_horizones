@@ -1,6 +1,6 @@
 {
-    "name": "tpumpy",
-    "short_name": "tpumpy",
+    "name": "home_horizones",
+    "short_name": "home_horizones",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
