@@ -37,7 +37,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 height: 60,
               ),
               Text(
-                "T-PUMPY",
+                "HOME",
                 style: TextStyle(
                     fontSize: 30,
                     fontWeight: FontWeight.w100,
@@ -45,7 +45,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     color: Theme.of(context).colorScheme.surface),
               ),
               Text(
-                "CONCEPT",
+                "HORIZONES",
                 style: TextStyle(
                     fontSize: 30,
                     fontWeight: FontWeight.bold,

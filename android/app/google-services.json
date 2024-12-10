@@ -8,7 +8,7 @@
     
     {
       "client_info": {
-        "mobilesdk_app_id": "1:746270310311:android:8f6ec6db15ea2ab9f30082",
+        "mobilesdk_app_id": "1:746270310311:android:54e2b591c68003ebf30082",
         "android_client_info": {
           "package_name": "com.example.home_horizones"
         }
@@ -25,6 +25,7 @@
         }
       }
     }
+    
   ],
   "configuration_version": "1"
 }

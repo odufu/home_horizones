@@ -22,7 +22,7 @@ class WelcomePage extends StatelessWidget {
                 width: 100,
                 child: Image.asset("assets/home_horizonesLogo.png")),
             Text(
-              "T-PUMPY",
+              "HOME",
               style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.w100,
@@ -30,7 +30,7 @@ class WelcomePage extends StatelessWidget {
                   color: Theme.of(context).colorScheme.surface),
             ),
             Text(
-              "CONCEPTS",
+              "HORIZONES",
               style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
@@ -77,7 +77,7 @@ class WelcomePage extends StatelessWidget {
                         padding: EdgeInsets.all(15),
                         child: Text(
                           textAlign: TextAlign.center,
-                          "Discover your dream properties with T-Pumpy Home, Where ownership meets excelence seemlesly",
+                          "Discover your dream properties with Home Horizones Home, Where ownership meets excelence seemlesly",
                           style: TextStyle(fontSize: 16),
                         ),
                       ),
